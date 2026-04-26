@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/yuesao-site/_next/static/chunks/09~hv2k4fj9tu.js","/yuesao-site/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+3:I[97367,["/yuesao-site/_next/static/chunks/09~hv2k4fj9tu.js","/yuesao-site/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/yuesao-site/_next/static/chunks/09~hv2k4fj9tu.js","/yuesao-site/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"谢阿姨专业月嫂服务 - 用心呵护每一个宝宝"}],["$","meta","1",{"name":"description","content":"谢阿姨，资深专业月嫂，拥有10年母婴护理经验，提供新生儿护理、产妇护理、月子餐制作等专业服务"}],["$","link","2",{"rel":"icon","href":"/yuesao-site/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8xbv7u1ccgDseMlD42mYk"}
